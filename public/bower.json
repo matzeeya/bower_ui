@@ -1,0 +1,23 @@
+{
+  "name": "bower_ui",
+  "version": "1.0.0",
+  "description": "bower test",
+  "keywords": [
+    "learning",
+    "bower"
+  ],
+  "authors": [
+    "Mattareeya"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#1.1.0"
+  }
+}

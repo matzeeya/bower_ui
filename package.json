@@ -1,0 +1,18 @@
+{
+  "name": "bower_ui_node",
+  "version": "1.0.0",
+  "description": "node express server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node_js",
+    "express"
+  ],
+  "author": "Mattareeya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
